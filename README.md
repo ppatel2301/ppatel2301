@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Dharm Patel 👋
 
-<!--
-**ppatel2301/ppatel2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with a strong interest in software engineering, distributed systems, backend systems, and data-driven applications.
 
-Here are some ideas to get you started:
+I enjoy building reliable, well-structured software and learning how large-scale systems work in real-world environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Languages:** Java, Python, C#, JavaScript, SQL
+- **Backend:** REST APIs, Spring Boot, .NET, Node.js
+- **Frontend:** HTML, CSS, Bootstrap, basic React
+- **Databases:** PostgreSQL, MySQL, SQL Server
+- **Cloud & Tools:** AWS (EC2, S3), Git, GitHub Actions
+- **Concepts:** OOP, Data Structures, APIs, Agile, DevOps basics
+
+---
+
+## 📌 Featured Projects
+### 🔹 Transit + Weather Web App
+Web application combining real-time transit data and weather information.
+- REST APIs (OpenWeather + Transit)
+- Responsive UI
+- Hosted on Firebase
+
+### 🔹 Gesture-Based Media Controller
+Python application using OpenCV to control system media playback with hand gestures.
+- Computer vision (no ML model)
+- Webcam-based controls
+- Modular, clean architecture
+
+### 🔹 Desktop Inventory / Label Tool
+C# WinForms desktop application for managing inventory and generating labels.
+- File handling & validation
+- User-friendly desktop UI
+
+---
+
+## 📈 Currently Learning
+- Scalable backend architecture
+- Cloud deployment workflows
+- Writing cleaner, testable code
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- Email: your.email@example.com
