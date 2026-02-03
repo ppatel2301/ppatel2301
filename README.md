@@ -44,5 +44,5 @@ C# WinForms desktop application for managing inventory and generating labels.
 ---
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/Dharm-Patel](https://www.linkedin.com/in/dharm-patel-4b5b4b241/)
+- Email: dharmspatel2003@gmail.com
