@@ -1,8 +1,8 @@
 # Hi, I'm Dharm Patel
 
-Computer Science graduate with a strong interest in software engineering, distributed systems, backend systems, and data-driven applications.
+Computer Science graduate with a strong interest in software engineering, distributed systems, backend systems, and data-driven applications. Currently expanding my knowledge of cloud computing concepts and platforms, including AWS and modern deployment workflows.
 
-I enjoy building reliable, well-structured software and learning how large-scale systems work in real-world environments.
+I enjoy building reliable, well structured software and learning how large scale systems work in real world environments.
 
 ---
 
