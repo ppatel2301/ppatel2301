@@ -1,4 +1,4 @@
-# Hi, I'm Dharm Patel 👋
+# Hi, I'm Dharm Patel
 
 Computer Science graduate with a strong interest in software engineering, distributed systems, backend systems, and data-driven applications.
 
